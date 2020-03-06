@@ -10,6 +10,7 @@ function App() {
         <Grid.Column textAlign='center' verticalAlign='middle'>
           <Icon loading inverted name='spinner' size='massive' />
           <Header as='h2' inverted content='Site Under Maintenance' />
+          <Header as='h2' inverted content='Will be up soon :)' />
         </Grid.Column>
       </Grid.Row>
     </Grid>
